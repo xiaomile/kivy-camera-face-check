@@ -1,0 +1,55 @@
+<Label>:
+    font_name:'droid.ttf'
+<TextInput>:
+    font_name:'droid.ttf'
+<Dutton@Button>:
+    font_name:'droid.ttf'
+
+<MyLayout>:
+    orientation:'vertical'
+    padding:(21,21)
+    canvas.before:
+        Rectangle:
+            pos:self.pos
+            size:self.size
+            source:'44.jpeg'
+
+    ScatterLayout:
+		#size_hint:None,None
+        do_rotation:False
+		do_scale:False
+        do_translation:False
+		rotation:270.0
+        pos:0,0
+		#size:720,720
+        CV2mera:
+            index:0
+            id:camera
+            play: True
+            resolution: (640,480)
+    
+    BoxLayout:
+        height:'81dp'
+        size_hint_y:None
+        Dutton:
+            text:'play'
+            on_release:camera.play = not camera.play
+        
+
+    BoxLayout:
+        orientation:'horizontal'
+        size_hint_y:None
+        height:'81dp'
+
+        Dutton:
+            text:'front'
+            on_release:camera.index=1
+            background_normal:'3.png'
+            background_down:'2.png'
+        Dutton:
+            text:'behind'
+            on_release:camera.index=0
+            background_normal:'3.png'
+            background_down:'2.png'
+           
+

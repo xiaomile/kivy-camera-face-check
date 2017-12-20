@@ -1,0 +1,124 @@
+[INFO   ] [Kivy        ] v1.10.0
+[INFO   ] [Python      ] v2.7.12 (default, Jul 25 2017, 22:12:10) 
+[GCC 4.9.x 20150123 (prerelease)]
+[INFO   ] [Factory     ] 194 symbols loaded
+[INFO   ] [Image       ] Providers: img_tex, img_dds, img_pygame, img_pil, img_gif (img_ffpyplayer ignored)
+[INFO   ] [Camera      ] Provider: android
+[INFO   ] [Window      ] Provider: pygame
+[INFO   ] [GL          ] Using the "OpenGL ES 2" graphics system
+[INFO   ] [GL          ] Backend used <gl>
+[INFO   ] [GL          ] OpenGL version <OpenGL ES 3.0 V@66.0 AU@04.04.04.154.004 (CL@)>
+[INFO   ] [GL          ] OpenGL vendor <Qualcomm>
+[INFO   ] [GL          ] OpenGL renderer <Adreno (TM) 305>
+[INFO   ] [GL          ] OpenGL parsed version: 3, 0
+[INFO   ] [GL          ] Texture max size <4096>
+[INFO   ] [GL          ] Texture max units <16>
+[INFO   ] [Support     ] Android install hooks
+[INFO   ] [Window      ] virtual keyboard not allowed, single mode, not docked
+[INFO   ] [GL          ] NPOT texture support is available
+[INFO   ] [Text        ] Provider: pygame
+[INFO   ] [OSC         ] using <multiprocessing> for socket
+[INFO   ] [Base        ] Start application main loop
+[INFO   ] [Android     ] found 17 joystick
+[INFO   ] [Android     ] create joystick <0>
+[INFO   ] [Android     ] discard joystick <0> cause no button
+[INFO   ] [Android     ] create joystick <1>
+[INFO   ] [Android     ] create joystick <2>
+[INFO   ] [Android     ] create joystick <3>
+[INFO   ] [Android     ] create joystick <4>
+[INFO   ] [Android     ] create joystick <5>
+[INFO   ] [Android     ] create joystick <6>
+[INFO   ] [Android     ] create joystick <7>
+[INFO   ] [Android     ] create joystick <8>
+[INFO   ] [Android     ] create joystick <9>
+[INFO   ] [Android     ] create joystick <10>
+[INFO   ] [Android     ] create joystick <11>
+[INFO   ] [Android     ] create joystick <12>
+[INFO   ] [Android     ] create joystick <13>
+[INFO   ] [Android     ] create joystick <14>
+[INFO   ] [Android     ] create joystick <15>
+[INFO   ] [Android     ] create joystick <16>
+480 640
+use-time: 0.246267
+all-time: 0.275371
+[ERROR  ] [Base        ] Failed to import "android" module. Could not remove android presplash.
+480 640
+use-time: 0.252921
+all-time: 0.27811
+480 640
+use-time: 0.244398
+all-time: 0.276394
+480 640
+use-time: 0.190012
+all-time: 0.21564
+480 640
+use-time: 0.318063
+all-time: 0.342676
+480 640
+use-time: 0.200592
+all-time: 0.226307
+480 640
+use-time: 0.273348
+all-time: 0.30179
+480 640
+use-time: 0.395159
+all-time: 0.421054
+480 640
+use-time: 0.486432
+all-time: 0.545675
+480 640
+use-time: 0.436709
+all-time: 0.483357
+480 640
+use-time: 0.420558
+all-time: 0.447007
+480 640
+use-time: 0.438837
+all-time: 0.468434
+480 640
+use-time: 0.412312
+all-time: 0.439049
+480 640
+use-time: 0.440998
+all-time: 0.478476
+480 640
+use-time: 0.384451
+all-time: 0.418417
+480 640
+use-time: 0.291798
+all-time: 0.316687
+480 640
+use-time: 0.363174
+all-time: 0.391876
+480 640
+use-time: 0.152445
+all-time: 0.188004
+480 640
+use-time: 0.141048
+all-time: 0.174497
+480 640
+use-time: 0.148787
+all-time: 0.175213
+480 640
+use-time: 0.153344
+all-time: 0.178088
+480 640
+use-time: 0.160373
+all-time: 0.197317
+480 640
+use-time: 0.201545
+all-time: 0.243803
+480 640
+use-time: 0.168532
+all-time: 0.220228
+480 640
+use-time: 0.161987
+all-time: 0.203476
+480 640
+use-time: 0.156442
+all-time: 0.190967
+480 640
+use-time: 0.174069
+all-time: 0.214044
+[INFO   ] [Base        ] Leaving application in progress...
+
