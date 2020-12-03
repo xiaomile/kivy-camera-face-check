@@ -1,6 +1,7 @@
 #coding=utf-8
 #qpy:kivy
 
+
 import os
 pyhome=os.popen('echo $PYTHONHOME').read().strip()
 opencv3=os.path.join(pyhome,'lib/python2.7/site-packages/cv2.py')
